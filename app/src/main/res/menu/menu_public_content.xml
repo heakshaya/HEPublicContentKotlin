@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group
+        android:id="@+id/news"
+        android:checkableBehavior="single">
+        <item
+            android:title=""
+            android:enabled="false" >
+        </item>
+        <item
+            android:id="@+id/newsFragment"
+            android:icon="@drawable/ic_news"
+            android:title="news"/>
+    </group>
+    <group android:id="@+id/about"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/aboutFragment"
+            android:icon="@drawable/ic_about"
+            app:showAsAction="never"
+            android:title="about"/>
+    </group>
+    <group android:id="@+id/tos"
+        android:visible="false"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/tosFragment"
+            android:icon="@drawable/ic_pro_tm"
+            app:showAsAction="never"
+            android:title="terms_of_service"/>
+    </group>
+    <group
+        android:id="@+id/empty"
+        android:checkableBehavior="single" >
+        <item
+            android:title=""
+            android:enabled="false" >
+        </item>
+    </group>
+</menu>
