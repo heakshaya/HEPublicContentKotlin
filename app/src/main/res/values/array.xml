@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
-
+    <!--
     <integer-array name="ribbons">
         <item>@drawable/ic_ribbon_1</item>
         <item>@drawable/ic_ribbon_2</item>
@@ -69,35 +62,14 @@
         <item>@drawable/ic_ribbon_58</item>
         <item>@drawable/ic_ribbon_59</item>
         <item>@drawable/ic_ribbon_60</item>
-        <item>@drawable/b_3</item>
-        <item>@drawable/b_4</item>
-        <item>@drawable/b_3</item>
-        <item>@drawable/b_4</item>
-        <item>@drawable/b_3</item>
-        <item>@drawable/b_4</item>
-        <item>@drawable/b_3</item>
-        <item>@drawable/b_4</item>
-        <item>@drawable/b_3</item>
-        <item>@drawable/b_4</item>
-        <item>@drawable/b_3</item>
-        <item>@drawable/b_4</item>
-    </integer-array>
+    </integer-array>-->
 
 
-    <integer-array name="balloons">
-        <item>@drawable/b_1</item>
-        <item>@drawable/b_2</item>
-        <item>@drawable/b_5</item>
-        <item>@drawable/b_6</item>
-        <item>@drawable/b_7</item>
-        <item>@drawable/b_8</item>
-        <item>@drawable/b_9</item>
-        <item>@drawable/b_10</item>
-    </integer-array>
-
-    <integer-array name="bigBalloons">
-        <item>@drawable/bb_1</item>
-        <item>@drawable/bb_2</item>
-        <item>@drawable/bb_3</item>
-    </integer-array>
+    <!-- <integer-array name="balloons">
+         <item>@drawable/b_1</item>
+         <item>@drawable/b_2</item>
+         <item>@drawable/b_3</item>
+         <item>@drawable/b_4</item>
+         <item>@drawable/b_5</item>
+     </integer-array>-->
 </resources>
